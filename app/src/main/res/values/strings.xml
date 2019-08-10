@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">CourseBlock</string>
+
+    <string name="action_login">Log In</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_sync">Sync</string>
+    <string name="action_apply">Apply</string>
+    <string name="action_delete">Delete</string>
+
+    <string name="todo">TODO</string>
+
+    <string name="label_login">Login</string>
+    <string name="label_settings">Settings</string>
+
+    <string name="pref_info">Information</string>
+    <string name="pref_style">Show Style</string>
+    <string name="pref_not_cur_week">Show courses not in current week</string>
+    <string name="pref_show_weekend">Show weekend</string>
+
+    <string name="pref_cur_year">Current Year</string>
+    <string name="pref_cur_term">Current Term</string>
+    <string name="pref_cur_week">Current Week</string>
+    <string-array name="pref_term_entries">
+        <item>First</item>
+        <item>Second</item>
+        <item>Summer</item>
+    </string-array>
+
+    <string-array name="pref_term_entry_values">
+        <item>3</item>
+        <item>12</item>
+        <item>16</item>
+    </string-array>
+
+    <string name="already_logged_in">Already logged in!</string>
+    <string name="please_log_in">Please log in first!</string>
+    <string name="pref_course_time">Show course time</string>
+    <string name="change_take_effect">Changes will take effect after restart this app</string>
+    <string name="action_expand">Expand</string>
+    <string name="current_week">Select current week</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="sync_to_update">Click sync button on main frame to take change</string>
+    <string name="summer_term">Select second term to show courses in summer term</string>
+    <string name="course_name">Course</string>
+    <string name="location">Location</string>
+
+    <string name="teacher">Teacher</string>
+    <string name="weeks">Weeks</string>
+    <string name="time">Time</string>
+    <string name="not_filled">Not filled</string>
+    <string name="note">Note</string>
+    <string name="not_chosen">Not chosen</string>
+    <string name="select_day">Select day:</string>
+
+    <string-array name="days_in_week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+    <string name="to">To</string>
+    <string name="select_start">Select start:</string>
+    <string name="select_end">Select end:</string>
+    <string name="select_week">Select week:</string>
+    <string name="period">Period %s</string>
+    <string name="week">Week %s</string>
+    <string name="select_all">Select all</string>
+    <string name="unselect_all">Unselect all</string>
+    <string name="action_modify">Modify</string>
+    <string name="course_id">ID</string>
+    <string name="warning">Warning!</string>
+    <string name="sure_to_delete">Sure to delete %s ?</string>
+    <string name="pref_remove_customized">Remove customized courses when sync</string>
+    <string name="please_input_name">Please input the course name!</string>
+    <string name="please_select_weeks">Please select weeks!</string>
+    <string name="please_select_period">Please select correct start and end period!</string>
+    <string name="action_feedback">Feedback</string>
+</resources>
